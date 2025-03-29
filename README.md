@@ -67,14 +67,17 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
+🌐 Live Demo
+Check out our live demo: portfolio-website-zeta-three-26.vercel.app
+
 License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact 📧
+📧 Contact
+Project Lead: Lavanya S
+Project Link: https://github.com/lavanya321-hub/Portfolio-Website/
 LinkedIn: Lavanya Sampath
-
 Email: lavanyasampath8@gmail.com
-
 GitHub: @lavanya321-hub
 
 Acknowledgements 🙏
